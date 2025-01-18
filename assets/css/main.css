@@ -105,6 +105,7 @@ pre {
   -ms-overflow-style: none;
   scrollbar-width: none;
   line-height: 1.3em;
+  font-size: .8em;
 }
 
 pre::-webkit-scrollbar {
